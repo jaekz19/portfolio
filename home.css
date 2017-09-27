@@ -26,6 +26,15 @@ body {
 		border-radius: 100%;
 	}
 
+	.left > .container > h1 {
+		text-align: center;
+	}
+
+	.left > .container > h1 > a {
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+
 	.left > .container > h1 > a,
 	.left > .container > h1 > a:hover,
 	.left > .container > h1 > a > span {
@@ -75,7 +84,7 @@ body {
 	}
 
 	.right > .intro > nav > a {
-		color: black;
+		color: white;
 		border-color: #ddd #ddd #fff;
 	}
 
